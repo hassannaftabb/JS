@@ -24,5 +24,5 @@ console.log(
 
 //Arrays
 
-let myArray = [1, 2, "3", 4, { name: "hassan" }, 6, [1, 4, 5], true, 9, 0];
+let myArray = [1, 2, "3", 4, { name: "hassan" }, " ", [1, 4, 5], true, 9, 0];
 console.log(myArray);
